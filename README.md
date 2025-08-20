@@ -9,6 +9,16 @@ The main goal is to show how values can be updated when performing operations su
 
 ### PersonalData.java ###
 
+The PersonalData.java program represents a **simple personal profile** by using different types of variables.  
+It demonstrates how multiple pieces of information (with different data types) can be stored, manipulated, and displayed in a meaningful way.
+
+The program stores 5 different attributes of a person, each with its appropriate data type:
++ Person's name
++ Person's age
++ Gender ('M' for male, 'F' for female)
++ Annual salary
++ Marital status
+
 ### Reservation.java ###
 
 ### TemperatureConverter.java ####
