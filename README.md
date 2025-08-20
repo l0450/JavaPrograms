@@ -4,6 +4,9 @@
 
 ### BankTransactions.java ###
 
+This simple Java program demonstrates the **manipulation of variables** using a banking example.  
+The main goal is to show how values can be updated when performing operations such as **withdrawals** and **deposits** on a bank account.
+
 ### PersonalData.java ###
 
 ### Reservation.java ###
