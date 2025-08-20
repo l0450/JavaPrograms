@@ -9,8 +9,8 @@ The main goal is to show how values can be updated when performing operations su
 
 ### PersonalData.java ###
 
-The PersonalData.java program represents a **simple personal profile** by using different types of variables.  
-It demonstrates how multiple pieces of information (with different data types) can be stored, manipulated, and displayed in a meaningful way.
+The PersonalData.java program represents a **simple personal profile** using different variables.  
+It demonstrates how multiple pieces of information (with different data types) can be stored, manipulated, and displayed meaningfully.
 
 The program stores 5 different attributes of a person, each with its appropriate data type:
 + Person's name
@@ -20,5 +20,9 @@ The program stores 5 different attributes of a person, each with its appropriate
 + Marital status
 
 ### Reservation.java ###
+
+That class simulates a **restaurant reservation management system**.  
+It demonstrates the use of **conditional operators** (`AND`, `OR`, `NOT`) in real-world logic for checking reservations.
+
 
 ### TemperatureConverter.java ####
