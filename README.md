@@ -26,3 +26,7 @@ It demonstrates the use of **conditional operators** (`AND`, `OR`, `NOT`) in rea
 
 
 ### TemperatureConverter.java ####
+
+Last but not least, this Java program demonstrates a **basic temperature conversion** from **Celsius (Centigrade)** to **Fahrenheit** using a simple formula.  
+It highlights **variable declaration**, **arithmetic operations**, and **formatted output**.
+
